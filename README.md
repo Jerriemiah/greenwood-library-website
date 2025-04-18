@@ -10,9 +10,18 @@ This repository contains a Capstone Project aimed at improving the Community Lib
 - **Add a Book Reviews Section:** Introduce a new section to allow community members to share book reviews.
 - **Update the Events Page:** Enhance the Events Page with fresh content and an improved layout.
 
+Link to Repo: [Community Library Website](https://github.com/Jerriemiah/greenwood-library-website/tree/main)
+
+
 ---
 
 ## Project Structure
+
+### Repo Cloning and .html for each page created
+![clonerepo](./img1cloned_repo.png)
+#
+![clonerepo](./img2creation_htmlpages.png)
+---
 
 ### Morgan's Work: Adding Book Reviews
 1. **Branch Creation:** A new branch named `add-book-reviews` was created.
@@ -21,22 +30,26 @@ This repository contains a Capstone Project aimed at improving the Community Lib
 4. **Pull Request:** A PR was raised and merged into the `main` branch.
 
 **Screenshot:**  
-*(Insert an image showing the `book_reviews.html` file open and visible in the project directory)*
 
+![Morgranbranchcreated](./img3morganbranch_creation.png)
+#
+![Morgranprcreated](./img4morganpullrequest_creation.png)
+#
+![Morgranprsuccess](./img4morganpullrequest_successful.png)
+#
 ---
 
 ### Jamie's Work: Updating Events Page
 1. **Branch Creation:** A separate branch named `update-events` was created.
-2. **Events Page Update:** Enhancements made to `events.html`, including updated layout and content.
+2. **Events Page Update:** Enhancements made to `events.html`
 3. **Version Control:** Changes were staged, committed with a message `"Update events page"`, and pushed to GitHub.
 4. **Pull Request:** A PR was raised and merged into the `main` branch.
 
 **Screenshot:**  
-*(Insert an image showing the updated `events.html` file open and visible in the project directory)*
+![Jamiebranchecreated](./img3jamiebranch_creation.png)
+#
+![Jamiebranchecreated](./img3jamiebranch_creation2.png)
+#
+![Jamiebranchecreated](./img3jamiebranch_creation.png)
 
 ---
-
-## How to Run
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/username/repository-name.git
